@@ -18,4 +18,4 @@ You can retrain models in 'src/train.ipynb'</br>
 ![BiSeNetV2](Poster/BiSeNetV2.JPG)
 The platform UI is developed using PyQt5. After being packaged into an exe file, it can run directly on the user's Windows computer without installing other dependent libraries.</br>
 **MainUI**</br>
-![MainUI](Poster/MainUI.png)
+![MainUI](Poster/mainUI.png)
